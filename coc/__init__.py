@@ -55,8 +55,7 @@ from .enums import (
     VillageType,
     SceneryType,
     EquipmentRarity,
-    SkinTier,
-    UNRANKED_LEAGUE_DATA,
+    SkinTier
 )
 from .errors import (
     ClashOfClansException,

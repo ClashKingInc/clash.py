@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-clash.py: A Clash of Clans API Wrapper
+clashy.py: A Clash of Clans API Wrapper
 ======================================
 
 

@@ -4,4 +4,4 @@
 Acknowledgements
 ================
 
-Thanks to all our `contributors <https://github.com/ClashKingInc/clash.py/graphs/contributors>`_
+Thanks to all our `contributors <https://github.com/ClashKingInc/clashy.py/graphs/contributors>`_

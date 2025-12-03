@@ -2,7 +2,7 @@
 
 Logging In
 ==========
-A clash.py client instance can be created directly by :class:`Client`. The instance can then be logged in with the methods
+A clashy.py client instance can be created directly by :class:`Client`. The instance can then be logged in with the methods
 
 .. automethod:: coc.Client.login
 	:noindex:

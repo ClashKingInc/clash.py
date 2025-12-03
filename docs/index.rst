@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 clashy.py: A Clash of Clans API Wrapper
-======================================
+=======================================
 
 
 .. _getting_started:
@@ -67,3 +67,4 @@ clashy.py: A Clash of Clans API Wrapper
 
    miscellaneous/changelog
    miscellaneous/acknowledgements
+   miscellaneous/cocpy_to_clashy

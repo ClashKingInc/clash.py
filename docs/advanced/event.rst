@@ -294,7 +294,7 @@ Custom Classes
 For more information on custom class support, please see :ref:`custom_classes`.
 
 Client (clashy.py) Events
-------------------------
+-------------------------
 
 clashy.py has a few events that are unique to the library, and which provide some useful information. They are:
 

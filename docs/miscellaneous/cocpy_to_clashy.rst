@@ -37,6 +37,9 @@ New Classes/Functions
   :class:`coc.Skin`, :class:`coc.Decoration`, :class:`coc.Obstacle` and :class:`coc.ClanCapitalHousePart` added for use
   with parsed static data
 - :class:`coc.Pet` added instead of using :class:`coc.Hero` for pets
+- :func:`coc.utils.get_season_start` & :func:`coc.utils.get_season_end` now have a `legacy` parameter to allow for
+  the old season start/end method. Previously season start/end was calculated based on the last Monday of the month,
+  but now it is calculated based on the first Monday of the month.
 
 Constant/Enums
 --------------

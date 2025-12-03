@@ -7,6 +7,17 @@ Changelog
 This page keeps a fairly detailed, human readable version
 of what has changed, and whats new for each version of the lib.
 
+v25.12.0
+------
+
+Changes:
+~~~~~~~~
+- Full Support for Th18
+- Docs revamp
+- Static data & classes revamp
+- Added support for parsing army recipes & account data
+
+
 v3.10.0
 ------
 

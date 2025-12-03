@@ -15,7 +15,7 @@ sys.path.append((root_project / "docs").as_posix())
 project = 'clashy.py'
 copyright = '2025, ClashKing'
 author = 'ClashKing'
-release = '25.12.0'
+release = '25.12.1'
 
 
 # -- General configuration ---------------------------------------------------

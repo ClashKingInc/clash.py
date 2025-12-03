@@ -1,5 +1,5 @@
 
-__version__ = "25.12.0"
+__version__ = "25.12.1"
 
 from .abc import BasePlayer, BaseClan
 from .buildings import (

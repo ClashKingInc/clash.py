@@ -44,6 +44,6 @@ packages = ["coc", "coc.ext.discordlinks", "coc.static", "coc.ext.triggers"]
 include-package-data = true
 
 [tool.setuptools.dynamic]
-version = { attr = "coc.__version__" }
+version = { attr = "coc._version.__version__" }
 [tool.setuptools.package-data]
 coc = ["events.pyi"]

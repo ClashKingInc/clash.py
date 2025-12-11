@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "clashy.py"
 authors = [{ name = "ClashKing" }]
 maintainers = [{ name = "MagicTheDev" }]
-version = "25.12.2"
+dynamic = ["version"]
 description = "A python wrapper for the Clash of Clans API"
 requires-python = ">=3.10.0"
 readme = "README.rst"
@@ -43,5 +43,7 @@ docs = ["sphinx",
 packages = ["coc", "coc.ext.discordlinks", "coc.static", "coc.ext.triggers"]
 include-package-data = true
 
+[tool.setuptools.dynamic]
+version = { attr = "coc.__version__" }
 [tool.setuptools.package-data]
 coc = ["events.pyi"]

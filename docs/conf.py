@@ -8,6 +8,8 @@
 import pathlib
 import sys
 
+from coc import __version__
+
 root_project = pathlib.Path(__file__).parents[1].resolve()
 sys.path.insert(0, root_project.as_posix())
 sys.path.append((root_project / "docs").as_posix())
@@ -15,7 +17,7 @@ sys.path.append((root_project / "docs").as_posix())
 project = 'clashy.py'
 copyright = '2025, ClashKing'
 author = 'ClashKing'
-release = '25.12.2'
+release = __version__
 
 
 # -- General configuration ---------------------------------------------------
